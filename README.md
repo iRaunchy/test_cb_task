@@ -7,5 +7,5 @@ Initial automation framework structure
  Created Robot Vacuum cleaner search category.
  Created filters to filter out results based on the different criteria.
  Add to cart button.   
- ulr: https://www.coolblue.nl/en
+ ulr: https://www.coolblue.nl/en  
  Main page -> 'Household & living' -> 'Robot vacuums'
