@@ -7,3 +7,4 @@ Initial automation framework structure
  Created Robot Vacuum cleaner search category.
  Created filters to filter out results based on the different criteria.
  Add to cart button. 
+ Main page -> 'Household & living' -> 'Robot vacuums'
