@@ -22,7 +22,7 @@ public class MainPageTest {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("https://www.jetbrains.com/");
-
+        // https://www.coolblue.nl/en
         mainPage = new MainPage(driver);
     }
 
